@@ -51,12 +51,10 @@
     <summary>How many stylesheets does this webpage currently have? Where in the project can they be found and edited?</summary>
     <p>There are two stylesheets, `normalize.css` and `main.css`. `normalize.css` is in the `vendor/css` folder because it's a file developed by somebody else (a vendor) and you won't be editing it. `main.css` is in the `assets/css` folder and is the custom styling that you'll spend time adjusting.</p>
   </details>
-  *  
   <details>
     <summary>In the `<head>` element, change the `<title>` of the page. Where can you observe the impact of this change?</summary>
     <p>On the tab in the browser, your site will display a new name. It used to be "First Training."</p>
   </details>
-  *
   <details>
     <summary>If you were to write some Javascript to handle events on this page, what file would be the correct place to write that code?</summary>
     <p>You'd want to write your custom JS in the `assets/js/app.js` file. Once this file grows big enough you might want to create new JS files in the `assets/js` folder.</p>
