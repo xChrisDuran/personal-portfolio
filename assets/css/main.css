@@ -1,1 +1,6 @@
 /* custom styles */
+a {
+  text-decoration: none;
+  text-decoration: inherit;
+  text-decoration-color: gold;
+}
